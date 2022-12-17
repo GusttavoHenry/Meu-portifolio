@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes Linguagens:
   <a href="https://GusttavoHenry" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a>
    <a href="https://github.com/GusttavoHenry" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/GusttavoHenry" target="_blank"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
-   <a href="https://github.com/GusttavoHenry" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"></a> 
+
 
 ## 🔗 Links
 
